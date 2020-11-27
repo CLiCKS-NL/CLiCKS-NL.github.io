@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+## CLiCKS: Connecting Logistics interfaces, Converters, Knowledge and Standards
+(From Sebastaian paper in SIFAI 2020)
 
-You can use the [editor on GitHub](https://github.com/CLiCKS-NL/CLiCKS-NL.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Small and Medium-sized Enterprises (SMEs) in logistics experience practical barriers when trying to use, exchange, share, and exploit real-time data in their operational processes. Such barriers include the abundance of proprietary data formats and schemes, the cost of implementing standards, the lack of trust among partners, the lack of IT expertise, and the uncertainty about benefits and return on investments. 
+
+CLiCKS is a recently started research project that aims at lowering these barriers. The core proposition revolves around the application of a federated approach based on the concepts of the International Data Space (IDS). 
+
+. Two main components of the architecture are discussed in more detail: (1) a connector store, offering connectors to realize data exchange
+between heterogeneous ICT environments, and (2) an interoperability simulator, to explore
+collaboration opportunities prior to implementation. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### CLiCKS high level architecture 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+>> Architecture
 
 ```markdown
 Syntax highlighted code block
@@ -28,9 +35,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CLiCKS-NL/CLiCKS-NL.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
