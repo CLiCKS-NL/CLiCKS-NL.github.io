@@ -30,7 +30,7 @@ CLiCKS is a research project that aims at lowering these barriers. The core prop
 
 [FAIR Data Principles](https://www.go-fair.org/fair-principles/)
 
-Leadership in Artificial Intelligence possible through responsible data sharing (https://nlaic.com/en/use-cases/leadership-in-artificial-intelligence-possible-through-responsible-data-sharing/)
+[Leadership in Artificial Intelligence possible through responsible data sharing](https://nlaic.com/en/use-cases/leadership-in-artificial-intelligence-possible-through-responsible-data-sharing/)
 
 ### Architecture 
 
