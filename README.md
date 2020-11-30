@@ -1,9 +1,12 @@
 ## The CLiCKS Project
 Small and Medium-sized Enterprises (SMEs) in logistics experience practical barriers when trying to use, exchange, share, and exploit real-time data in their operational processes. Such barriers include the abundance of proprietary data formats and schemes, the cost of implementing standards, the lack of trust among partners, the lack of IT expertise, and the uncertainty about benefits and return on investments. 
 
+Read the white paper: THE LOGISTICS DATA SHARING INFRASTRUCTURE
+
 CLiCKS is a recently started research project that aims at lowering these barriers. The core proposition revolves around the application of a federated approach based on the concepts of the International Data Space (IDS). CLiCKS  architecture presents two main components: 
-- a connector store, offering connectors to realize data exchange between heterogeneous ICT environments
-- an interoperability simulator, to explore collaboration opportunities prior to implementation 
+1. A connector store, offering connectors to realize data exchange between heterogeneous ICT environments
+2. An interoperability simulator, to explore collaboration opportunities prior to implementation 
+
 
 (From Sebastian paper in SIFAI 2020)
 
