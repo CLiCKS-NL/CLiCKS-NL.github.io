@@ -26,6 +26,10 @@ CLiCKS is a research project that aims at lowering these barriers. The core prop
 1. A connector store, offering connectors to realize data exchange between heterogeneous ICT environments
 2. An interoperability simulator, to explore collaboration opportunities prior to implementation 
 
+[International Data Spaces](https://www.internationaldataspaces.org/)
+
+[FAIR Data Principles](https://www.go-fair.org/fair-principles/)
+
 ### Architecture 
 
 << Figure 2: High level architecture for federated interoperability >> 
